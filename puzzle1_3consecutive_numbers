@@ -1,0 +1,19 @@
+DECLARE @number varchar(100)='54321'
+DECLARE @output varchar(100)=''
+
+;with cte as
+(
+	Select 1 as number, Cast(LEFT(@number,1) AS int) as letter1, CAST(LEFT(substring(@number,2,LEN(@number)-2),1) as int) as letter2
+	UNION ALL
+	Select cte.number+1, Cast(SUBSTRING(@number,cte.number+1,1)as int) as letter, Cast(LEFT(substring(@number,cte.number+2,LEN(@number)-cte.number+2),1) as int) as letter2
+	from cte where cte.number<LEN(@number)
+),
+ cte2 as(
+Select  number,letter1,letter1-letter2 as differ from cte)
+,cte3 as(
+Select count(differ) as natija from cte2
+Where differ=-1
+)
+Select natija from cte3
+
+---If natija from cte3 is higher than 1, that means this number has at least 3 consecutive numbers. 
