@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>TechBrothersIT_lesson23</Name>
+    <LastWriteTime>2023-01-14T15:38:24.7306401Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>23_lesson_ReadFilesAsPerExtensionLoadThemToSQL.dtsx</Name>
+      <LastWriteTime>2022-12-27T19:10:34.6723739Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>24_lesson_LoadFilesToDifferentTablesAccordingToFileNameInSSISPackage.dtsx</Name>
+      <LastWriteTime>2022-12-27T20:01:51.0886726Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>25_lesson_LoadMultipleExcelFilesToSQLServerTableArchiveThemWithDatetime.dtsx</Name>
+      <LastWriteTime>2022-12-27T20:35:39.546247Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>26_lesson_How To Execute Multiple SQL Files by using SSIS Package.dtsx</Name>
+      <LastWriteTime>2022-12-27T20:50:08.4859491Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>27_lesson_Extract file Names from Folders and save in SQL.dtsx</Name>
+      <LastWriteTime>2022-12-28T02:28:51.505069Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>28_lesson_Archive Files with Datetime after Loading into SQL Server Table.dtsx</Name>
+      <LastWriteTime>2022-12-28T03:05:57.3120933Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>29-lesson_How to Create Multiple Files from a SQL.dtsx</Name>
+      <LastWriteTime>2022-12-28T03:30:55.1853356Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>30_lesson_How to Create SQL Server Profiler Type logging in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T08:18:14.7924883Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>34_lesson_Annotated Precedence Constraints in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T06:07:14.6381417Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>35_lesson_System Variables in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T06:30:48.63654Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>36_lesson_How to Create and Use Package Level And Project Level Parameters in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T06:53:00.6795411Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>37_lesson_How to Create Folder with Date in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T07:27:46.0219381Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>38_lesson_How to Create Monthly Archive Folders in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T07:38:36.0896064Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>31_lesson_How to Create XML Log file with Datetime in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T14:54:24.1122418Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>32_lesson_How to Enable SQL Server Logging in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T15:00:30.1177018Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>33_lesson_How to create text log file with Datetime in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T15:23:01.5783099Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>39_lesson_How to Use Row Count Transformation to Log Record Count in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T15:40:10.7745733Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>40_lesson_How to use Sort Transformation to Remove Duplicate Records in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T15:48:47.0409815Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>41_lesson_How to use Pivot Transformation in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T16:41:21.0920908Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>42_lesson_How to Use UnPivot Transformation in SSIS.dtsx</Name>
+      <LastWriteTime>2022-12-28T16:51:37.876012Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>43_lesson_What is OLE DB Command Transformation.dtsx</Name>
+      <LastWriteTime>2022-12-28T17:02:00.5282929Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>43.2_lesson_OLE DB Command Transformation Insert Operation and Parameter Mapping.dtsx</Name>
+      <LastWriteTime>2022-12-28T17:16:43.9612458Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>44_lesson_Delete Rows from a Table by using OLE DB Command Transformation.dtsx</Name>
+      <LastWriteTime>2022-12-28T17:28:57.9087066Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>45_lesson_Update Records in a Table by using OLE DB Command Transformation.dtsx</Name>
+      <LastWriteTime>2022-12-28T17:40:43.2531766Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>46_lesson_Call a Stored Procedure with input Parameters in OLEDB Command Transformation.dtsx</Name>
+      <LastWriteTime>2022-12-28T17:59:07.9687598Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>47_lesson_Use Sub Query in OLE DB Command Transformation with Parameters in SSIS.dtsx</Name>
+      <LastWriteTime>2023-01-14T14:41:19.7672862Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>48_lesson_SSIS_Tutorial_Part_48_Common_Table_Expressions_CTE_with_Parameter.dtsx</Name>
+      <LastWriteTime>2023-01-11T06:28:39.1375501Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>49_lesson_SSIS_Tutorial_Part_49_Multiple_Stored_Procedures_w__Input_Parameters.dtsx</Name>
+      <LastWriteTime>2023-01-11T09:07:34.8351204Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>50_lesson_SSIS_Tutorial_Part_50_Execute_Multiple_DMLs_with_Parameters_in_OLE.dtsx</Name>
+      <LastWriteTime>2023-01-11T09:28:57.965865Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>51_lesson_SSIS_Tutorial_Part_51_Dynamically_Change_the_SQL_Command_in_OLE.dtsx</Name>
+      <LastWriteTime>2023-01-11T10:17:14.2364922Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>52_lesson_Use_Stored_Procedure_with_Output_Parameter.dtsx</Name>
+      <LastWriteTime>2023-01-11T12:32:28.441849Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>53_lesson_Use_Dynamic_Query_in_Lookup_Transformation.dtsx</Name>
+      <LastWriteTime>2023-01-11T13:53:09.0017538Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>54_lesson_Use_Stored_Procedure_with_Parameters_in_Lookup.dtsx</Name>
+      <LastWriteTime>2023-01-11T15:35:30.2347416Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>55_lesson_Force Lookup Transformation to Work as Case In-Sensitive in SSIS Package.dtsx</Name>
+      <LastWriteTime>2023-01-12T17:31:22.1274049Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>56_lesson_Does_Lookup_Transformation_perform_Left_Outer.dtsx</Name>
+      <LastWriteTime>2023-01-12T17:54:38.1112156Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>57_lesson_How_Null_values_match_in_Lookup_Transformation.dtsx</Name>
+      <LastWriteTime>2023-01-12T18:23:14.4421319Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>58_lesson_How_to_Handle_Row_yielded_no_Match_Error_for.dtsx</Name>
+      <LastWriteTime>2023-01-12T18:44:30.3170358Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>59_lesson_Duplicate_Data_in_Lookup_Transformation_Reference.dtsx</Name>
+      <LastWriteTime>2023-01-12T18:59:08.5866338Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>60_lesson_Perform_Upsert_Update_Insert_SCD1_by_Lookup.dtsx</Name>
+      <LastWriteTime>2023-01-12T19:56:17.1260805Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>61_lesson_Lookup_Transformation_Modes_Full_Cache,_Partial.dtsx</Name>
+      <LastWriteTime>2023-01-13T04:12:45.7962866Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>62_lesson_Diff_between_Lookup_Transformation_And_Inner.dtsx</Name>
+      <LastWriteTime>2023-01-13T05:16:06.2862809Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>63_lesson_Intro_to_Cache_Transformation_Use_Flat_File.dtsx</Name>
+      <LastWriteTime>2023-01-13T05:43:55.5575056Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>64_lesson_Cache_Transformation_In_Depth_Demo_by_using.dtsx</Name>
+      <LastWriteTime>2023-01-13T06:34:39.5256088Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>64_lesson_Customer1.dtsx</Name>
+      <LastWriteTime>2023-01-13T06:34:27.0600565Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>64_lesson_Customer2.dtsx</Name>
+      <LastWriteTime>2023-01-13T06:34:28.466687Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>65_lesson_Use_Excel_Data_in_Lookup_Transformation_in.dtsx</Name>
+      <LastWriteTime>2023-01-13T07:29:28.2783058Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>66_lesson_How_to_Load_Lookup_Data_Parallel_in_SSIS_PackageCache.dtsx</Name>
+      <LastWriteTime>2023-01-13T12:39:05.0313258Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>67_lesson_Row_Sampling_Transformation_in_SSIS_Package.dtsx</Name>
+      <LastWriteTime>2023-01-13T12:48:04.9710906Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>68_lesson_Percentage_Sampling_Transformation_in_SSIS.dtsx</Name>
+      <LastWriteTime>2023-01-13T12:59:57.5161077Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>69_lesson_How_to_Filter_Rows_with_Null_Values_in_Data.dtsx</Name>
+      <LastWriteTime>2023-01-13T13:13:01.3618297Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>70_lesson_How_to_Filter_Rows_with_Blank_values_in_Data.dtsx</Name>
+      <LastWriteTime>2023-01-13T13:29:47.20949Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>71_lesson_How_To_Redirect_or_Remove_Duplicate_Records.dtsx</Name>
+      <LastWriteTime>2023-01-13T13:43:03.0717774Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>72_lesson_What_is_Conditional_Split_Transformation_in.dtsx</Name>
+      <LastWriteTime>2023-01-13T14:15:18.4772823Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>73_lesson_How_to_Load_Unique_Records_From_Flat_File.dtsx</Name>
+      <LastWriteTime>2023-01-13T14:24:38.8463753Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>74_lesson_How_to_use_Conditonal_Split_to_Load_Data_To.dtsx</Name>
+      <LastWriteTime>2023-01-13T16:10:59.1303338Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>75_lesson_How_to_use_Merge_Transformation_in_SSIS_Package.dtsx</Name>
+      <LastWriteTime>2023-01-14T13:37:19.729161Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>78_lesson_What is Multicast Transformation in SSIS.dtsx</Name>
+      <LastWriteTime>2023-01-14T13:41:57.0690164Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>79_lesson_Export Column Transformation in SSIS Package.dtsx</Name>
+      <LastWriteTime>2023-01-14T13:49:20.541335Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>81_lesson_Create Load Summary Email logic in SSIS Package.dtsx</Name>
+      <LastWriteTime>2023-01-14T14:13:08.968063Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>80_lesson_Import Column Transformation in SSIS.dtsx</Name>
+      <LastWriteTime>2023-01-14T14:34:59.5381347Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>82_lesson_How to Configure Send Mail Task And Send Email in SSIS.dtsx</Name>
+      <LastWriteTime>2023-01-14T14:55:34.8954361Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>76_lesson_Convert Month Number into Month Name in Derived Column Transformation.dtsx</Name>
+      <LastWriteTime>2023-01-14T15:24:16.7864627Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>41_lesson_second_version.dtsx</Name>
+      <LastWriteTime>2023-01-14T15:46:56.9637246Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
