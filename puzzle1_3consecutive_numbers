@@ -17,3 +17,42 @@ Where differ=-1
 Select natija from cte3
 
 ---If natija from cte3 is higher than 1, that means this number has at least 3 consecutive numbers. 
+
+
+
+
+2nd version
+
+
+
+Create table result (numbers int)
+
+Declare @count int=(Select count(id) from simpleNumbers)
+
+while @count>0
+BEGIN
+DECLARE @fullname varchar(100)=(Select nums from simpleNumbers where id=@count)
+DECLARE @output varchar(100)=''
+
+	;with cte as
+	(
+		Select 1 as number, 
+			   Cast(LEFT(@fullname,1) AS int) as letter1,
+			   CAST(LEFT(substring(@fullname,2,LEN(@fullname)-2),1) as int) as letter2,
+			   CAST(LEFT(substring(@fullname,3,LEN(@fullname)-2),1) as int) as letter3
+		UNION ALL
+		Select cte.number+1, 
+			   Cast(SUBSTRING(@fullname,cte.number+1,1)as int) as letter, 
+			   Cast(LEFT(substring(@fullname,cte.number+2,LEN(@fullname)-cte.number+2),1) as int) as letter2,
+			   Cast(LEFT(substring(@fullname,cte.number+3,LEN(@fullname)-cte.number+2),1) as int) as letter3
+		from cte where cte.number<LEN(@fullname)
+	),cte2 as( 
+	Select  number,letter1,letter2,letter3,letter1-letter2 as differ1,letter2-letter3 as differ2 from cte)
+	, cte3 as (Select count(*) as result from cte2
+	where differ1=-1 AND differ2=-1)
+	Select  @output=@fullname  from cte3 where result>0
+SET @count-=1 AND insert into result(@output)
+(@output)
+END
+
+oxirida natijani olish qismini qila olmadm.
